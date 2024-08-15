@@ -1,0 +1,5 @@
+plugin:
+    name: 'DKIM Sign'
+    description: 'Enable DKIM signing for outgoing emails.'
+    author: 'Vojta Svoboda'
+    icon: 'icon-envelope'

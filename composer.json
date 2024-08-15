@@ -1,0 +1,16 @@
+{
+    "name": "vojtasvoboda/dkimsign-plugin",
+    "description": "Enable DKIM signing for outgoing emails.",
+    "type": "october-plugin",
+    "keywords": ["dkim"],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vojta Svoboda",
+            "email": "vojtasvoboda.cz@gmail.com"
+        }
+    ]
+}
